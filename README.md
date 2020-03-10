@@ -1,1 +1,1 @@
-# [Change-a-Power-Plan](../../wiki): Without PowerCfg!
+# [Change-a-Power-Plan](../../wiki) Without PowerCfg!
